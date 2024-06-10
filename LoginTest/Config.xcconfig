@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  LoginTest
+//
+//  Created by 정종원 on 6/5/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+KAKAO_NATIVE_APP_KEY = e1db9d5a401917df42b3f63710a4bba1
